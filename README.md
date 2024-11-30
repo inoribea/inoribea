@@ -12,9 +12,7 @@
 
 
 ### 👦About me
-Blog: https://blog.inoribea.org
 
-Email: email.inoribea.org
 
 
 
