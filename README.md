@@ -14,7 +14,7 @@
 ### 👦About me
 Blog: https://blog.inoribea.org
 
-Email: inoribea@outlook.com
+Email: email.inoribea.org
 
 
 
