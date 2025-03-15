@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
-  <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
-</picture>
+<table width="100%"><tr><td align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+    <img src="https://github.com/Fgaoxing/Fgaoxing/raw/main/github-snake.svg">
+  </picture>
+</td></tr></table>
 <a href="#">
   <br/><br/><br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=inoribea&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" />
