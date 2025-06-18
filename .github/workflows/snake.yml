@@ -34,18 +34,19 @@ jobs:
       - name: Move generated SVG files
         run: |
           mkdir -p assets
-          mv dist/github-snake.svg assets/github-snake.svg
-          mv dist/github-snake-dark.svg assets/github-snake-dark.svg
+          mv dist/github-snake-full-year.svg assets/github-snake-full-year.svg
+          mv dist/github-snake-full-year-dark.svg assets/github-snake-full-year-dark.svg
       
       - name: Commit and Push changes 
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          git add assets/github-snake.svg assets/github-snake-dark.svg
+          git add assets/github-snake-full-year.svg assets/github-snake-full-year-dark.svg
           
           git diff --cached --exit-code || git commit -m "Generate snake animation"
           
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
