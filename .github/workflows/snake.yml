@@ -26,8 +26,8 @@ jobs:
         with:
           github_user_name: inoribea  
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-full-year.svg?grid_size=53&output_width=900&output_height=180
+            dist/github-snake-full-year-dark.svg?palette=github-dark&grid_size=53&output_width=900&output_height=180
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
