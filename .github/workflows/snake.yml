@@ -1,0 +1,51 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  
+  workflow_dispatch:
+  
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: inoribea  
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Move generated SVG files
+        run: |
+          mkdir -p assets
+          mv dist/github-snake.svg assets/github-snake.svg
+          mv dist/github-snake-dark.svg assets/github-snake-dark.svg
+      
+      - name: Commit and Push changes 
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add assets/github-snake.svg assets/github-snake-dark.svg
+          
+          git diff --cached --exit-code || git commit -m "Generate snake animation"
+          
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
