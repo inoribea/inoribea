@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=inoribea&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=transparent" alt="GitHub Stats" />
+<img src="https://github-readme-stats-inoribea.vercel.app/api?username=inoribea&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=transparent" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoribea&layout=compact&theme=transparent" alt="Top Languages" />
