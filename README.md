@@ -54,7 +54,7 @@
 <a href="https://www.pixiv.net/users/inoribea">
 <img src="https://img.shields.io/badge/Pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white" alt="Pixiv"/>
 </a>
-<a href="https://open.spotify.com/userryulwnu88w5ddgg1gc29kbh63">
+<a href="https://open.spotify.com/user/ryulwnu88w5ddgg1gc29kbh63">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
 <br/>
