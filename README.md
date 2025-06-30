@@ -16,13 +16,14 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <!-- 左侧：GitHub Stats 卡片 -->
       <img src="https://github-readme-stats-inoribea.vercel.app/api?username=inoribea&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=transparent" alt="GitHub Stats" />
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats-inoribea.vercel.app/api/top-langs/?username=inoribea&layout=compact&theme=transparent" alt="Top Languages" />
-      <br/> 
-      <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&layout=compact&theme=transparent" alt="AstroQuery CLI Project" />
+      <br/>
+      <a href="https://github.com/inoribea/astroquery-cli"> 
+        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&theme=transparent" alt="AstroQuery CLI Project" />
+      </a>
     </td>
   </tr>
 </table>
