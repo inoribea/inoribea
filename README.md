@@ -45,7 +45,6 @@ I don't just deploy code—I write with systems.
       <a href="https://github.com/inoribea/astroquery-cli">
         <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&theme=transparent" alt="Astroquery CLI Project" />
       </a>
-    </td>
   </tr>
 </table>
 
