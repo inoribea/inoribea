@@ -60,8 +60,6 @@ I don't just deploy code—I write with systems.
     <td valign="top" width="50%">
       <img src="https://github-readme-stats-inoribea.vercel.app/api/top-langs/?username=inoribea&layout=compact&theme=transparent" alt="Top Languages" />
       <br/>
-
-    </td>
   </tr>
 </table>
 
