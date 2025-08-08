@@ -12,6 +12,46 @@
 
 <div align="center">
 
+I'm a cross-domain systems crafter—shaping worlds, scripting logic, and engineering self-hosted infrastructure.
+
+🛠️ Maintains multi-cloud environments across Tencent, Alibaba, and Google Cloud  
+🌐 Builds serverless AI routing tools with Langchain, Vercel, and Cloudflare Workers  
+🧠 Writes multilingual CLI tools for astronomy, DNS, and LLM orchestration  
+🌌 Designs sci-fi narrative systems powered by AI-assisted procedural logic  
+
+I don't just use tools—I make environments.  
+I don't just deploy code—I write with systems.
+
+</div>
+
+---
+
+## 📦 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/inoribea/langchain-vercel">
+        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=langchain-vercel&theme=transparent" alt="Langchain Vercel" />
+      </a>
+      <br/>
+      <a href="https://github.com/inoribea/sdns-calculator">
+        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=sdns-calculator&theme=transparent" alt="SDNS Calculator" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/inoribea/astroquery-cli">
+        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&theme=transparent" alt="Astroquery CLI Project" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ### 📊 GitHub Stats & Languages
 <table>
   <tr>
@@ -21,9 +61,7 @@
     <td valign="top" width="50%">
       <img src="https://github-readme-stats-inoribea.vercel.app/api/top-langs/?username=inoribea&layout=compact&theme=transparent" alt="Top Languages" />
       <br/>
-      <a href="https://github.com/inoribea/astroquery-cli"> 
-        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&theme=transparent" alt="AstroQuery CLI Project" />
-      </a>
+
     </td>
   </tr>
 </table>
