@@ -33,8 +33,8 @@ I don't just deploy code—I write with systems.
 <table>
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github.com/inoribea/langchain-vercel">
-        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=langchain-vercel&theme=transparent" alt="Langchain Vercel" />
+      <a href="https://github.com/inoribea/AetherWeaver">
+        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=AetherWeaver&theme=transparent" alt="Langchain Vercel" />
       </a>
       <br/>
       <a href="https://github.com/inoribea/sdns-calculator">
