@@ -1,12 +1,3 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/inoribea/inoribea/raw/main/assets/github-snake-full-year-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/inoribea/inoribea/raw/main/assets/github-snake-full-year.svg">
-   <img src="https://github.com/inoribea/inoribea/raw/main/assets/github-snake-full-year.svg" alt="Snake animation">
-</picture>
-
-</div>
 
 ## 👦 About Me
 
