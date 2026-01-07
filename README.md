@@ -17,43 +17,6 @@ I don't just deploy code—I write with systems.
 
 ---
 
-## 📦 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/inoribea/AetherWeaver">
-        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=AetherWeaver&theme=transparent" alt="Langchain Vercel" />
-      </a>
-      <br/>
-      <a href="https://github.com/inoribea/sdns-calculator">
-        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=sdns-calculator&theme=transparent" alt="SDNS Calculator" />
-      </a>
-    </td>
-    <td valign="top" width="50%">
-      <a href="https://github.com/inoribea/astroquery-cli">
-        <img src="https://github-readme-stats-inoribea.vercel.app/api/pin/?username=inoribea&repo=astroquery-cli&theme=transparent" alt="Astroquery CLI Project" />
-      </a>
-  </tr>
-</table>
-
-</div>
-
-
-### 📊 GitHub Stats & Languages
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-inoribea.vercel.app/api?username=inoribea&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&theme=transparent" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats-inoribea.vercel.app/api/top-langs/?username=inoribea&layout=compact&theme=transparent" alt="Top Languages" />
-      <br/>
-  </tr>
-</table>
-
 ### 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,discord" alt="Tech Stack" />
 
